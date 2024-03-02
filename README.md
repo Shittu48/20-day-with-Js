@@ -1,2 +1,2 @@
 # 20-day-with-Js
-Javascript projects for 20days
+JIntegrating ```Javascript```, ```HTML and CSS``` for daily projects in 20days continuously
